@@ -1,0 +1,7 @@
+{
+    "name": "megacorp",
+
+    "build": {
+        "dockerfile": "./Dockerfile"
+    }
+}
